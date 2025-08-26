@@ -1,3 +1,4 @@
+
 trata_empates_geocode <- function(output_df = parent.frame()$output_df,
                                   resolver_empates = parent.frame()$resolver_empates,
                                   verboso = parent.frame()$verboso) { # nocov start
